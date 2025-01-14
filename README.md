@@ -1,6 +1,7 @@
 # Excel Dashboard Data Analytics Project 
 
 # Project overview 
+<img width="1408" alt="dashboard image" src="https://github.com/user-attachments/assets/b1f62a71-ccff-4302-af86-74310a937af1" />
 This project contains a dashboard that is created to help job seekers look into salaries in different data fields, analyze the current job market and make the optimal career choice.  
 The data that I have used is from the Excel Beginners course that I have completed and it contains information on job titles, salaries and locations.   
 
@@ -27,5 +28,5 @@ The data that I have used is from the Excel Beginners course that I have complet
 This project allows users to stay informed on salary trends dynamics and choose the best career path. 
 While building this dashboard during Excel course, I have gained multiple skills, such as data validation, applying formulas, using filters and building charts.
 
-<img width="1408" alt="dashboard image" src="https://github.com/user-attachments/assets/b1f62a71-ccff-4302-af86-74310a937af1" />
+
 
